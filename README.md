@@ -49,4 +49,4 @@
 
 
 
-<div style="text-align: right"><span style="text-decoration:italic">Автор: Казаков Евгений, ПМИ 163</span></div>
+<div style="text-align: right">Автор: Казаков Евгений, ПМИ 163</div>
