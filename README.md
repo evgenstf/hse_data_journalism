@@ -48,5 +48,7 @@
 20171215 -- Добавлен план работы и источники информации
 
 
-
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
 <center>Автор: Казаков Евгений, ПМИ 163</center>
