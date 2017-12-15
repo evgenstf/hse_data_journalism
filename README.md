@@ -47,5 +47,8 @@
 
 20171215 -- Добавлен план работы и источники информации
 
-
+<div class="remark-slideshow">
+  <div class="remark-slide">
+      <div class="remark-slide-content center middle">
+            <h1>Slide with content centered in both dimensions</h1>
 .right[Автор: Казаков Евгений, ПМИ 163]
