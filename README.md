@@ -28,10 +28,10 @@
 ----------------
 
 В качестве основного источника информации я планирую использовать следующие ресурсы:
-* [Wikipedia](en.wikipedia.org/wiki/Cryptocurrency) - основные определения, необходимые для введения терминологии и общего знакомства 
-* [Blockgeeks](blockgeeks.com/guides/what-is-cryptocurrency) - один из самых широкоизвестных англоязычных гайдов на эту тему
-* [Bitmex](bitmex.com/app/trade/XBTUSD) - актуальный курс одной из основных валют - "биткоина"
-* [Bitinfocharts](bitinfocharts.com) - сайт очень большим количеством собранной за все время статистики, пригодится для формирования графиков
+* [Wikipedia](https://en.wikipedia.org/wiki/Cryptocurrency) - основные определения, необходимые для введения терминологии и общего знакомства 
+* [Blockgeeks](https://blockgeeks.com/guides/what-is-cryptocurrency) - один из самых широкоизвестных англоязычных гайдов на эту тему
+* [Bitmex](https://bitmex.com/app/trade/XBTUSD) - актуальный курс одной из основных валют - "биткоина"
+* [Bitinfocharts](https://bitinfocharts.com) - сайт очень большим количеством собранной за все время статистики, пригодится для формирования графиков
 * [Lifehacker](https://lifehacker.ru/2017/06/15/bestchange-cryptocurrency/) - простая и хорошо написанная статья, покрывающая бОльшую часть тем.
 * [SergeyBreeze](http://www.sergeybreeze.ru/kriptovaljuta/plyusy-minusy-kriptovalyuty/) - финансовый блог одного из самых крупных трейдеров в России.
 * [HighTech](https://hightech.fm/2017/12/05/bitcoin_predictions) - издание, занимающееся различными прогнозами по этой теме.
