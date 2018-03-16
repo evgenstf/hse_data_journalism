@@ -28,9 +28,9 @@
 ------------
 
 Чтобы ответить на этот вопрос, проведем небольшое исследование. Скачаем данные о торговых сделках на одной из самых крупных криптобирж: BITMEX. 
-Перекрестное сравнение со всеми графиками можно увидеть в соответствующем [python_sheets/cross_securities_statistics/cross_securities_statistics.ipynb](python-блокноте).
+Перекрестное сравнение со всеми графиками можно увидеть в соответствующем [python-блокноте](python_sheets/cross_securities_statistics/cross_securities_statistics.ipynb).
 
-Также я построил и прокомментировал несколько графиков роста цены криптовалют за последние полгода в этом [python_sheets/simple_securities_visualization/simple_securities_visualization.ipynb](python-блокноте)
+Также я построил и прокомментировал несколько графиков роста цены криптовалют за последние полгода в этом [python-блокноте](python_sheets/simple_securities_visualization/simple_securities_visualization.ipynb)
 
 
 Опасно ли нерегулируемое обращение денег в мире? Какие у этого могут быть плюсы и минусы?
